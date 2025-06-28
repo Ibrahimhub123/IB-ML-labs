@@ -1,8 +1,15 @@
 # 🔬 Machine Learning Lab Overview – Spring 2025
+Welcome to the Machine Learning Lab repository for Spring 2025. This lab series is part of the undergraduate curriculum in Electrical Engineering and aims to bridge theory and practice in modern machine learning.
 
-Below is a structured summary of all ML labs from Lab 1 to the Open-Ended Project. Each lab progressively builds foundational skills in data preprocessing, neural networks, and advanced architectures.
+Through a progressive set of assignments, students develop a deep understanding of core ML concepts, from data preprocessing and classical models to deep learning architectures such as CNNs, RNNs, LSTMs, and state-of-the-art models like GoogLeNet. Each lab is implemented in Python using libraries such as NumPy, Pandas, Scikit-learn, TensorFlow, and Keras.
 
----
+The labs emphasize real-world application, hands-on experimentation, and code modularity—preparing students to tackle complex problems in data science, AI, and signal processing domains.
+
+## 🧪 Lab Overview
+
+Below is a structured summary of all ML labs from Lab 1 to the Open-Ended. Each lab progressively builds foundational skills in data preprocessing, neural networks, and advanced architectures.
+
+
 
 ## 🧪 Lab Overview Table
 
@@ -22,9 +29,9 @@ Below is a structured summary of all ML labs from Lab 1 to the Open-Ended Projec
 | **Lab 12**  | Custom CNN Design          | Designing and training a personalized CNN architecture for 4-class classification. |
 | **Lab 13**  | Image Augmentation         | Applying Keras `ImageDataGenerator` for image transformations and training.     |
 | **Lab 14**  | GoogLeNet Implementation   | Implementing the GoogLeNet (Inception) architecture for maize leaf classification. |
-| **Lab 15**  | Capstone / Open-Ended Lab  | Building a forecasting model on a time-series dataset (CityLearn/AEP).          |
+| **Lab 15**  | Open-Ended Lab             | Building a forecasting model on a time-series dataset (CityLearn/AEP).          |
 
----
+
 
 > ✨ Each lab reinforces practical machine learning concepts with hands-on experimentation using real datasets, TensorFlow/Keras, and classical statistical approaches.
 
