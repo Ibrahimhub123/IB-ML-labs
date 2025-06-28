@@ -1,1 +1,1 @@
-# IB-ML-labs
+# Machine Learning-labs
